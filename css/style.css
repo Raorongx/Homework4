@@ -86,7 +86,7 @@ img{
         align-items: stretch;
     }
 
-    img{
+    .gallery img{
         width: 300px;
         height: auto;
     }
